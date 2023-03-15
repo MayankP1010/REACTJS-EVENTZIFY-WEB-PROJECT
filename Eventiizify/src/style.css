@@ -1,0 +1,75 @@
+h1 {
+    font-family: Lato;
+    padding-top: 60px;
+  }
+  .card {
+    /* display: flex; */
+    flex-wrap: wrap;
+    /* margin: 10px; */
+    width: 600px;
+    padding: 10px;
+    height: 100%;
+    justify-content: center;
+    box-shadow: 1px 1px 3px;
+    text-align: center;
+    background-color: darksalmon;
+    background-image: 'https://i.pinimg.com/564x/eb/97/17/eb9717682675d56869ba397353d1611a.jpg';
+  }
+  .para {
+    font-family: arial;
+    /* padding-bottom: 100px; */
+  }
+  
+  .bg {
+    background-image: url('https://i2.wp.com/zeevector.com/wp-content/uploads/Indian-Wedding-Invitation-Card-Background.png?fit=1530%2C2054&ssl=1');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 600px;
+    height: 850px;
+  }
+  
+  .date {
+    margin-left: 170px;
+    font-size: 15px;
+  }
+  
+  .bill {
+    display: flex;
+    margin-left: 60px;
+  }
+  
+  table {
+    margin-left: 120px;
+  }
+  
+  p {
+    margin-left: 0px;
+  }
+  
+  .address {
+    margin-left: 70px;
+    margin-right: 70px;
+  }
+  ul {
+    display: block;
+    text-align: left;
+    margin-left: 230px;
+  }
+  
+  .terms{
+    color: red;
+    text-align: left;
+    margin-left: 60px;
+    margin-right: 380px;
+    border: 1px solid black;
+    padding: 5px
+  }
+  
+  .conditions{
+    text-align: left;
+    margin-left: 80px;
+    margin-bottom: 100px
+  }
+  
+  
